@@ -88,7 +88,7 @@ sup{
 }
 main{
     background-image: url(./xl-hero-desktop_2021.webp);
-    background-color:var(--light1);
+    background-color:#d4e9e2;
     background-size: cover;
     min-height: 85vh;
     margin-top: 140px;
